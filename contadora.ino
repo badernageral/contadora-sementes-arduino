@@ -92,7 +92,7 @@ void loop(){
   /*else{
     Serial.print(valor);
     Serial.print(" - ");
-  }*/
+  }*/ 
 }
 void sementeVisor(){
   lcd.setCursor(8, 1);
